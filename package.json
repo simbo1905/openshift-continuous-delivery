@@ -38,7 +38,7 @@
     "chalk": "^2.3.0",
     "gulp-beautify": "^2.0.1",
     "gulp-filter": "^5.1.0",
-    "gulp-json-transform": "^0.4.5",
+    "gulp-json-transform": "^0.4.6",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
