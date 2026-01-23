@@ -39,13 +39,13 @@
     "gulp-beautify": "^2.0.1",
     "gulp-filter": "^5.1.0",
     "gulp-json-transform": "^0.4.5",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
     "nconf": "^0.10.0",
     "nconf-yaml": "^1.0.2",
     "path": "^0.12.7",
-    "yeoman-generator": "^1.0.0",
+    "yeoman-generator": "^5.0.0",
     "yosay": "^2.0.1"
   }
 }
